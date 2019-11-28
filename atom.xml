@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>AI足彩研究院</title>
+  <title>用AI进行足球比赛资讯聚合和分析预测 | AI足彩研究院</title>
   
-  <subtitle>使用AI进行足球比赛预测</subtitle>
+  <subtitle>用AI进行足球比赛分析预测</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://footballpredict.ai/"/>
+  <link href="https://www.footballpredict.ai/"/>
   <updated>2019-11-27T01:04:37.352Z</updated>
-  <id>https://footballpredict.ai/</id>
+  <id>https://www.footballpredict.ai/</id>
   
   <author>
     <name>AI足彩研究院</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://footballpredict.ai/2019/11/26/4a17b156/"/>
-    <id>https://footballpredict.ai/2019/11/26/4a17b156/</id>
+    <link href="https://www.footballpredict.ai/post/4a17b156/"/>
+    <id>https://www.footballpredict.ai/post/4a17b156/</id>
     <published>2019-11-26T06:38:00.000Z</published>
     <updated>2019-11-27T01:04:37.352Z</updated>
     
@@ -34,10 +34,10 @@
     
     </summary>
     
-      <category term="hexo" scheme="https://footballpredict.ai/categories/hexo/"/>
+      <category term="hexo" scheme="https://www.footballpredict.ai/categories/hexo/"/>
     
     
-      <category term="hexo" scheme="https://footballpredict.ai/tags/hexo/"/>
+      <category term="hexo" scheme="https://www.footballpredict.ai/tags/hexo/"/>
     
   </entry>
   
