@@ -1,27 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
+    <title>欢迎大家来到AI足彩研究院</title>
     <url>/post/4a17b156/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+    <content><![CDATA[<p>朋友们好，我是枫叶，欢迎大家来到<strong>AI足彩研究院</strong>。我是一名热爱足球的<strong>程序猿</strong>，我的目标是通过机器学习和人工智能AI来进行足球比赛的分析和预测，足彩资讯的智能化聚合。希望通过这样一个平台认识和结交更多志同道合的朋友。</p>
+<h2 id="平台目标"><a href="#平台目标" class="headerlink" title="平台目标"></a>平台目标</h2><ul>
+<li>提供基于AI的足球比赛分析预测和足彩推荐</li>
+<li>提供基于大数据的足彩资讯聚合，包括球队新闻，比赛前瞻，赛前简报等</li>
+<li>提供足彩比赛分析解盘文章和比赛复盘文章等</li>
+<li>提供比分服务</li>
+<li>提供比赛直播和观看链接等</li>
+<li>分享有深度和高质量的足彩技术文章</li>
+</ul>
 ]]></content>
       <categories>
-        <category>hexo</category>
+        <category>默认</category>
       </categories>
       <tags>
-        <tag>hexo</tag>
+        <tag>足彩预测</tag>
+        <tag>足彩推荐</tag>
       </tags>
   </entry>
 </search>
